@@ -13,14 +13,13 @@ services:
 env:
   global:
     - secure: ux0KilW5SMkJ/cwq1ybC5c6a57s3/zoS9O1Qrr6y1J07IGcaRAQKw23vJdbke/MvotCOk+T1im2h5IFXS8LGBO6SG9Wl2DhQGqwmvD9T2zTrMzYvjq/rE+fcHZ2+HJ1jq1xFus677HVNV+PPCRz4K9xc2TebXWAv1DM5kIi+kmyqelI8PRKsL7+r90dfvhrDhtSLQSR0gnyU9ggpdJKLExQUFXLrU8Zanxnne1yDMkGgt0HcFv4ySl+rW+Mt7csA2VTnskICI/tOkMd/zhhnT1ag8leZA3gspuUf8P5/dhxOgTvN8LVs7TYPTpEY4q7sHK5BN1KhNxsanmwm6cssB2qBWOacPXSIeit09F5Fz0T8z+irfGOnz03UMipM3m4A9TM0gJgO2f7SzPrRHtcOeB0pWo8xhkG2cgWnRFSHNwhYS1SDw/V7Ae9gvcV9VU85jztoUMkDo9JGijEtAoJWICW2m1Wl6GbGjt95uEFjbdEub9BdPAQLM9XeG4w2r4QnnHarPrxtBfsYHE2CkDZL+rZ7uPKiAvZV6Sf5oHArQfZ06u3vo/pVeYZiOhoFT5wF5VCitPyBtLIcgoTf/BVToi4l6plsH3NhNJx5q0F34yuVvXzhq5a2qK4qLCxTChy1P7CpL4OYXFxPVFMLNcrr7kTh3+lvH7re9fefF9uHllA=
-    - secure: qY15/IXsGvsFEqkTcRbrrWXbBbq1n7qeiQmULtEOXoZa4z7iDf6xp1B6odKKdS2wftWCa4reZXhaGL9S0/XN2GVrq0O4fUURnuu2zPwHC5W8UXopzT+WJ/SNJXKsjNJhb/Lhph8M/ph+CcPTNH/m2Yfx52LHbiQbsg9POxXJhK/dITqBTQx8Y8Rby5qh+evZK+0qnmX1hdcKgvE+SQzfqJhvts0ktq36Q5ErwuyEnXUl8tKd0BwohdPj9AfhDXlO8VyBBxlAyynQglvTMiRozf0ipRmwOHO1XyCNjQnvRyUFh5doOFimx1VrD9jRd+TNEKJXKRT8eGkQkQCIJGF06ZXL8Ype+VbP+uLyeHSUFCcBbwnp/s6x+q/XvGfCFuk/3vjTfrJQDIdu33GOagisnIvSgqn+s6CfBVkAv542l9diTGSiK+m4AbKHS+sNKMoNFL8JoxQHO8jEcgXmLtZpk8YyzEEaYFBOifDcTSNMccsWniwTFfxjrIpdC7LU8Fd19umeIF1ko9M/AIpW9LfaE4LUSWPdaPoSFB2wuFCMa8fwqJTsaUwrvXp5p+M5LjTbzlW5+/1rrDMTn7vnh8bT2muPph9JjfryunLjV4g9VET9J2qUgAPJ5SyjNr4I/niStU806ip/TvVNxBZ0ITMbWRXvOaY6hYKOv+eEuCJbiZE=
+    - secure: f5oQtpm+5fZEe4MCKPUhu9BqXJf+1zksMfk23jCVwpOgI9txgv6BX0PL4fY6IdI5T5pb8OcQxX3hIKcXpIpIxZPZ/gOYr2yUuR2fePC9h9FRH9IyYaTgF+RPIu3aXMAGLopVKtF0BGArvN7u+C7CPJE/37fJ1aHLc4vn/rUcnaPhqZYDjzXDi4hHrMWgON0MLffJ5iyH27Zi6BD6Y31/WBRI2mXkhV81XKa+EACk54vxDJQttOOuqrADuT2I7/M4PwYx+c8nZkK29ySj/irGwjenFGqMcU4HXqrapBzugfxOauWIpQwVa7KXIHv+IOBWXRzqwePc5TXN92pRBFIEcJ09+0DdImEnOUc4mWfSsQhJkYxQYxWJ0geWzAXuL1I6z6UVP2asaxyBP6c6C2YMsYbgNjlqcdWAjmsSoSlhYy89XdgQbzFmR1UeOV3bzF40xkPdVQoI2yz8yetw/9a/QFPxeu9xSvQarAtgo2WW0HVxWSlmx4o3M+T7KbBhLDcZle+XEQLRQBe5rPp+N+3P3DNwWMhL6kskitecYEqT+4L+vx1HJPD/GnbBk7EFkOY8r51kgQ5PoqAZ2GTyVGj+OCQiqXzr2LTmM0pvhgWnVSCHKgE1Ds8xrNhENIwW+Iwez4XRtosbqy6aErep+oGCjJd44ApvWr5wjMv45a+WBG0=
     - secure: ogVX8UGqYEYOkQvhYsfBHKGpNUixq1ZDA4SzJmghlnfgpW77F31pfFJcEkPSbfu6ultKQ0a2vqPKeQyDICccKewD5lwkP82761EGc/oV9wCMNrjPACfxwEXFrTh7ToKC9uI0cvze1J7D4wxbthjJY3LhRrRfVx1tg6li1+ZbLGtBq7O20ydoz5JDJYiQDiqOajbQC/txHB/8VU4ebwzIvyZwCLYDV8czZVaGQlEZ8xVSL4XD3D3ar8aQQiuIE+rz3yKWHnzK+6xYSc7GCHjzo5Xjm2T7yy0UbF6snVt27ndPYKtnHOogPw1D2J/LUrr+4BnOLzLp8FTTh8rerr8XwFC2kJ9SXDtPDmR0JX04FYF9QItpJqu2g51PlCCuo/r9z+wQq+lgOwdLoKWW5HWIsQTtvAJEsLjs2yVIg9yMHDyTCCPOJyV3z8lm2bg1RwWKm1a2YGdHChqigPbC4ansENcwg+olSFJ1ZgUCnzPEI+rKoaJUGEECgkLX+n3At64TM3KEPBFV+ENJSRqSkfwxfLMHAlt0/1lRdolJVZY973K3+kCk8mrjVXdd3c+g3CE5pnj/Jm68J/DtzT24iQzg+h5+VDQoqQaX13r3YqtaRFtof0xKCrBxDgQNkXwdUlqwbmVd0X4qj1RpUNo0eXKHsdosqohUT8y9S3qshIAwh0U=
     - secure: Ew4/Bd0vhMGPTONCJ45om0yVXO7HIW0UK22qkqWvVERwL444ksnPLLywZaKTxuyY6aJFn8uXRur9Rl6KM2mQxfdq9tpuSIp+yMuIrdmMAqJOUw5mUgrfhtaS++s9rzGesiYKMY9J/YvOVgi/M5Doxvf4P0ZELtCHsctzt+ETZuLrMD9+Xk4uUo+AaZPwjVH/VynWbZGlnsb11wz2+UqahE/GCjrEISKsPYvRbAeMe6Da35Xxr968d+A89rIrK/Aap4p2ngzotCHmzxVOpiC1etzhx9oKTMOwqCEqDYVxWiW3vYRbzr9YfmvpWUKXdOe6ZWpisEQrCJThycKjpPUjmrraxcEkB0YP6smiRt28lDON8k9lkk8amGVv/bivTHy1p5TXUOvV7xExapjaAbVp2fiIZQsI0hfUwSql1kN6m38Nx6Vrsp3rKFdPvKlM32u79J8Viw1detYqNMvRvn0x9Gao6aBT3ILg2x03CYmWtja1fl2Gti7XukZ28LxAmd4YcGIFz3ENID6hrfk5E0DhsZTV1sgNKWjGIP8eCj6T6rGHaKnm796SZIr4n8QxKGob9/m0QDCN8obNYYqlO34OlmAK8K7VuEbZE7kKmemHZpQTtTQswrm75gli2ZQVGnYB4wqU3qE4PWdsE/QGKfi0olq5lJE6wnuI/0QiKOC+PsE=
-before_install:
-  - docker pull openjdk:8-jdk-alpine
+#before_install:
+#  - docker pull openjdk:8-jdk-alpine
 # Test & Build SpringBoot app
 script:
-  - mvn test
   - mvn clean package
 # Create Docker image for our app and push it to Dockerhub repository and send messages to the Teams channel after the `script` job is successfully executed
 after_success:
@@ -28,10 +27,10 @@ after_success:
   - export TAG=`if [ ! -z "$TRAVIS_TAG" ]; then echo "$TRAVIS_TAG"; else echo "$TRAVIS_BRANCH--$COMMIT"; fi`
   - docker login -u $DOCKER_USER -p $DOCKER_PASS
   - docker-compose build
-  - docker tag pawan-helloworld:latest pawan-helloworld:$TAG
+  - docker tag pawankulkarni/pawan-helloworld:latest pawankulkarni/pawan-helloworld:$TAG
 #  - docker tag $IMAGE_NAME:latest $IMAGE_NAME:$TAG
 #  - docker push $IMAGE_NAME:$TAG
-  - docker push pawan-helloworld:$TAG
+  - docker push pawankulkarni/pawan-helloworld:$TAG
 # If the `script` job fails, it will send a failure message to Teams channel
 after_failure:
   - export TITLE="Travis:$TRAVIS_JOB_ID -- build job is failed"
@@ -40,8 +39,8 @@ after_failure:
 deploy:
   provider: heroku
   api-key:
-    secure: "$HEROKU_API_KEY"
+    secure: $HEROKU_API_KEY
   app: pawan-helloworld
   on:
     tags: true
-    repo: "$IMAGE_NAME"
+    repo: pawankulkarni/pawan-helloworld

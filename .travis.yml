@@ -28,8 +28,10 @@ after_success:
   - export TAG=`if [ ! -z "$TRAVIS_TAG" ]; then echo "$TRAVIS_TAG"; else echo "$TRAVIS_BRANCH--$COMMIT"; fi`
   - docker login -u $DOCKER_USER -p $DOCKER_PASS
   - docker-compose build
-  - docker tag $IMAGE_NAME:latest $IMAGE_NAME:$TAG
-  - docker push $IMAGE_NAME:$TAG
+  - docker tag pawan-helloworld:latest pawan-helloworld:$TAG
+#  - docker tag $IMAGE_NAME:latest $IMAGE_NAME:$TAG
+#  - docker push $IMAGE_NAME:$TAG
+  - docker push pawan-helloworld:$TAG
 # If the `script` job fails, it will send a failure message to Teams channel
 after_failure:
   - export TITLE="Travis:$TRAVIS_JOB_ID -- build job is failed"

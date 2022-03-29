@@ -36,6 +36,8 @@ after_failure:
   - export TITLE="Travis:$TRAVIS_JOB_ID -- build job is failed"
   - export TEXT=[datetime]:`date`
 # Allow Travis to help deploy the app on Heroku
+before_deploy:
+  - rvm $(travis_internal_ruby) --fuzzy do ruby -S gem install faraday -v 1.10.0
 deploy:
   provider: heroku
   api-key:

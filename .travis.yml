@@ -42,5 +42,4 @@ deploy:
     secure: $HEROKU_API_KEY
   app: pawan-helloworld
   on:
-    tags: true
-    repo: pawankulkarni/pawan-helloworld
+    all_branches: true

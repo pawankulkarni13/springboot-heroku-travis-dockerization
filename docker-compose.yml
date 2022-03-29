@@ -1,0 +1,6 @@
+version: "3"
+services:
+  app:
+    build: .
+    image: pawankulkarni/springboot-heroku-travis-dockerization:latest
+    container_name: springboot-heroku-travis-dockerization
